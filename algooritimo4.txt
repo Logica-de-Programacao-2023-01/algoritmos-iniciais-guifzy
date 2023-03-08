@@ -1,13 +1,15 @@
 Algoritmo de cálculo de fatorial: um algoritmo que calcula o fatorial de um número, ou seja, o produto de todos os números inteiro de 1 até aquele número
 
+leia fat
 leia fatorial
 leia num
 
+num = fat
 fatorial > 0
 
 enquanto num > 0
 faça num - 1
 
-fatorial = fatorial * num
+fatorial = fat * num
 
 escreva fatorial 
