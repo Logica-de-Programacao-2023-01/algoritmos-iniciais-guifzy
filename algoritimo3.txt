@@ -6,7 +6,7 @@ leia tamanho_lista
 
 soma = 0
 para cada elemnto da lista 
-soma = elemento da lista + 1
+soma = elemento da lista + soma
 media = soma/ tamanho_lista
 
 escreva media
