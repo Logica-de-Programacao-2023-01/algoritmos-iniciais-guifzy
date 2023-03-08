@@ -1,0 +1,13 @@
+Algoritmo de busca linear: um algoritmo que procura por um determinado elemento em uma lista, verificando cada elemento da lista até encontrá-lo.
+
+leia vetor [1,2,3]
+leia num_desejado
+leia posição_na_lista
+
+enquanto posição_na_lista for < 2 e vetor <> num_desejado
+faça posição_na_lista + 1  
+
+se posição_na_lista for = num_desejado
+
+então
+escreva "número encontrado na" posição_na_lista
