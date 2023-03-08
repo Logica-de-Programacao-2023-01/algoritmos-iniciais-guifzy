@@ -2,7 +2,7 @@ Algoritmo de cálculo de fatorial: um algoritmo que calcula o fatorial de um nú
 
 leia fat
 leia fatorial
-leia num = 3
+leia num 
 
 fat = num
 
