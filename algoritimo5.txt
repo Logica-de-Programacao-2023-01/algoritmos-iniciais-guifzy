@@ -7,7 +7,7 @@ leia posição_na_lista
 enquanto posição_na_lista for < 2 e vetor <> num_desejado
 faça posição_na_lista + 1  
 
-se posição_na_lista for = num_desejado
+se vetor for = num_desejado
 
 então
 escreva "número encontrado na" posição_na_lista
