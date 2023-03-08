@@ -4,7 +4,7 @@ leia fat
 leia fatorial
 leia num 
 
-fat = num
+fat = 1
 
 enquanto num > 0 faça
 
