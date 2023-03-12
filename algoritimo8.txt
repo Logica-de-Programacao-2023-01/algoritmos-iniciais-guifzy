@@ -7,6 +7,6 @@ leia area
 escreva "digite a base: var base"
 escreva "digite a altura: var altura"
 
-area = base * altura
+area = (base * altura) /2
 
 escreva "a areea é: var area"
