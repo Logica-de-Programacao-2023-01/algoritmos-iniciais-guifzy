@@ -1,0 +1,15 @@
+Algoritmo de cálculo de média ponderada: um algoritmo que calcula a 
+média ponderada de uma lista de números com base nos pesos fornecidos.
+
+leia lista_numero
+leia lista_peso
+var somatoria_peso = 0
+var somatoria_numero = 0
+
+para cada elemento da lista_numero faça:
+ somatoria_lista = somatoria_lista + (n * peso)
+para cada elemento de lista_peso faça:
+ somatoria_peso = somatoria_peso + peso
+
+resultado = somatoria_numero / somatoria_peso
+escreva resultado
